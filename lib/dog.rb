@@ -8,5 +8,5 @@ class Dog
   end
 end
 
-Dog.new("Lassie")
-lassie.name
+Dog.new
+Dog.name = "Lassie"
