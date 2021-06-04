@@ -8,5 +8,3 @@ class Dog
   end
 end
 
-Dog.new
-Dog.name = "Lassie"
